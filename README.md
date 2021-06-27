@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisn71
+- 👋 Hi, I’m Chris!
 - 👀 I’m interested in coffee, dogs, and coding.
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on web design.
